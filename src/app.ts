@@ -39,7 +39,7 @@ export default class HelloWorld {
                     position: { x: 0, y: 0.5, z: 0 }
                 },
                 text: {
-                    contents: "Hello World!",
+                    contents: "Tom's da Man!",
                     anchor: TextAnchorLocation.MiddleCenter,
                     color: { r: 30 / 255, g: 206 / 255, b: 213 / 255 },
                     height: 0.3
