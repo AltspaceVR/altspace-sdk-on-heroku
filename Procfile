@@ -1,1 +1,1 @@
-web: PORT 3901 node .
+web: node .
